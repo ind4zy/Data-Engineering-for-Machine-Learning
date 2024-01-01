@@ -3,11 +3,6 @@
 
 👉 &nbsp;This repository contains the code for data engineering best practices for building the data stack for ML systems.
 
-<div align="left">
-<a target="_blank" href="https://madewithml.com/courses/mlops/data-stack/"><img src="https://img.shields.io/badge/📖 Read-lesson-9cf"></a>&nbsp;
-<a href="https://github.com/GokuMohandas/data-engineering" role="button"><img src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>&nbsp;
-</div>
-
 <br>
 
 ## Data stack
