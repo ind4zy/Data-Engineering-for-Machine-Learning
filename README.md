@@ -1,18 +1,7 @@
 # Data Engineering for Machine Learning
 
-Learn data engineering fundamentals by constructing a modern data stack for analytics and machine learning applications. We'll also learn how to orchestrate our data workflows and programmatically execute tasks to prepare our high quality data for downstream consumers (analytics, ML, etc.)
 
-<div align="left">
-    <a target="_blank" href="https://madewithml.com"><img src="https://img.shields.io/badge/Subscribe-40K-brightgreen"></a>&nbsp;
-    <a target="_blank" href="https://github.com/GokuMohandas/Made-With-ML"><img src="https://img.shields.io/github/stars/GokuMohandas/Made-With-ML.svg?style=social&label=Star"></a>&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/goku"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
-    <a target="_blank" href="https://twitter.com/GokuMohandas"><img src="https://img.shields.io/twitter/follow/GokuMohandas.svg?label=Follow&style=social"></a>
-    <br>
-</div>
-
-<br>
-
-👉 &nbsp;This repository contains the code that complements the [data stack](https://madewithml.com/courses/mlops/data-stack/) and [orchestration](https://madewithml.com/courses/mlops/orchestration/) lessons which is a part of the [MLOps course](https://github.com/GokuMohandas/mlops-course). If you haven't already, be sure to check out the lessons because all the concepts are covered extensively and tied to data engineering best practices for building the data stack for ML systems.
+👉 &nbsp;This repository contains the code for data engineering best practices for building the data stack for ML systems.
 
 <div align="left">
 <a target="_blank" href="https://madewithml.com/courses/mlops/data-stack/"><img src="https://img.shields.io/badge/📖 Read-lesson-9cf"></a>&nbsp;
@@ -960,8 +949,3 @@ Now we have our entire DataOps DAG define and executing it will prepare our data
 <div class="ai-center-all">
     <img src="https://madewithml.com/static/images/mlops/orchestration/dataops.png" width="700" alt="dataops">
 </div>
-
-
-## Learn more
-
-Learn a lot more about data engineering, including infrastructure that we haven't covered in code here and how it's poised for downstream analytics and machine learning applications in our [data stack](https://madewithml.com/courses/mlops/data-stack/), [orchestration](https://madewithml.com/courses/mlops/orchestration/) and [feature store](https://madewithml.com/courses/mlops/feature-store/) lessons.
